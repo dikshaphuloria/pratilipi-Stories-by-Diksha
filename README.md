@@ -6,6 +6,8 @@ The project is divided into 2 major section:
 
 2)Backend : Using PHP and Mysql.
 
+
+
 Inorder to run the project on local server the prerequisite are:
 
 1)Text editor- Sublime Text3 or Visual studio.
@@ -13,6 +15,7 @@ Inorder to run the project on local server the prerequisite are:
 2)XAMPP - For accessing mysql and provide local server.
 
 3)Browser to see the website- Google Chrome 
+
 
 
 The website focuses on the following functionality:
